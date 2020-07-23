@@ -1,0 +1,15 @@
+{
+    "name": "kevinbharris/ensignia-shop",
+    "type": "library",
+    "description": "This is an extended version of the velocity theme for Bagisto.",
+    "keywords": ["Bagisto","Theme","Auth"],
+    "homepage": "https://yourcompany.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Harris",
+            "email": "kevin.b.harris.2015@gmail.com",
+            "role": "Developer"
+        }
+    ],
+}
