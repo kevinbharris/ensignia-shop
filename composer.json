@@ -3,7 +3,7 @@
     "type": "library",
     "description": "This is an extended version of the velocity theme for Bagisto.",
     "keywords": ["Bagisto","Theme","Auth"],
-    "homepage": "https://yourcompany.com",
+    "homepage": "https://github.com/kevinbharris/ensignia-shop/",
     "license": "MIT",
     "authors": [
         {
